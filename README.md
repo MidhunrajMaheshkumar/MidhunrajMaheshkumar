@@ -128,3 +128,10 @@ class Midhunraj:
 <p align="center"><i>⚡ "Writing clean code, bridging backend logic with workflow automation, and scaling robust enterprise systems."</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2a4d,100:714B67&height=110&section=footer" width="100%" />
+
+
+<!-- Metrics Image -->
+![Metrics](github-metrics.svg)
+
+<!-- Contribution Snake Animation -->
+![Snake Animation](https://raw.githubusercontent.com/MidhunrajMaheshkumar/MidhunrajMaheshkumar/output/github-contribution-grid-snake-dark.svg)
