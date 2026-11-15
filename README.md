@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=B07CC6&center=true&vCenter=true&width=720&lines=Building+robust+backend+architectures;Custom+Odoo+ERP+modules+(v17%E2%80%9319);Automating+workflows+with+n8n+%26+APIs;Local+RAG+%7C+LangChain+%7C+MCP+servers;Based+in+Riyadh%2C+Saudi+Arabia+%F0%9F%87%B8%F0%9F%87%A6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=B07CC6&center=true&vCenter=true&width=720&lines=Building+robust+backend+architectures;Custom+Odoo+ERP+modules+(v17%E2%80%9319);Automating+workflows+with+n8n+%26+APIs;Local+RAG+%7C+LangChain+%7C+MCP+servers;" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ```python
 class Midhunraj:
-    role      = "Software Developer & Odoo ERP Specialist @ 21CK-IT (Riyadh, KSA)"
+    role      = "Software Developer & Odoo ERP Specialist @ 21CK-IT"
     education = "B.Tech Computer Science Engineering, APJ Abdul Kalam Technological University"
     focus     = ["Backend", "Custom ERP architecture", "API integrations", "Automation", "Practical AI/ML"]
     workflow  = "Linux (Ubuntu) / WSL, terminal-first: git, docker, psql"
