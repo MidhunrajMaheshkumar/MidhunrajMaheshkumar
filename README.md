@@ -1,18 +1,152 @@
-# 💫 About Me:
-🔭 I’m currently engineering custom Odoo ERP modules (v17–v19) and backend workflows at 21CK-IT.<br>👯 I’m looking to collaborate on backend engineering, Odoo ERP architecture, and AI automation projects.<br>🤝 I’m looking for help with advanced AI automation workflows.<br>🌱 I’m currently leveling up my agentic orchestration and building automation workflows.<br>💬 Ask me about Python, Django, Odoo ERP, Linux terminal workflows, Claude Dev, Docker Workflows and Backend logic.<br>⚡ Fun fact: I like to spend my time building something useful and that can earn some money for my spending.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:714B67,50:3b2a4d,100:0d1117&height=240&section=header&text=Midhunraj%20Maheshkumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20Odoo%20ERP%20Specialist%20%E2%80%A2%20Backend%20Engineer&descAlignY=62&descSize=17" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=B07CC6&center=true&vCenter=true&width=720&lines=Building+robust+backend+architectures;Custom+Odoo+ERP+modules+(v17%E2%80%9319);Automating+workflows+with+n8n+%26+APIs;Local+RAG+%7C+LangChain+%7C+MCP+servers;Based+in+Riyadh%2C+Saudi+Arabia+%F0%9F%87%B8%F0%9F%87%A6" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/midhunrajm1265) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MidhunrajMaheshkumar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MidhunrajMaheshkumar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MidhunrajMaheshkumar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/midhunrajm1265/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=714B67&style=for-the-badge" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MidhunrajMaheshkumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```python
+class Midhunraj:
+    role      = "Software Developer & Odoo ERP Specialist @ 21CK-IT (Riyadh, KSA)"
+    education = "B.Tech Computer Science Engineering, APJ Abdul Kalam Technological University"
+    focus     = ["Backend", "Custom ERP architecture", "API integrations", "Automation", "Practical AI/ML"]
+    workflow  = "Linux (Ubuntu) / WSL, terminal-first: git, docker, psql"
+    exploring = ["Local RAG pipelines", "LLM agentic loops", "MCP servers", "SEO/GEO for AI answer engines"]
+
+    def motto(self):
+        return "Clean code. Robust backends. Workflows that run themselves."
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,cpp,java,html,css,md,django,flask,nodejs,flutter,react,tailwind,postgres,mysql,sqlite,redis,docker,kubernetes,git,gitlab,github,linux,ubuntu,cmake,aws,gcp,azure,tensorflow,keras,pytorch,sklearn,scipy,pandas,numpy&perline=12" />
+</p>
+
+<div align="center">
+
+| | |
+|:---|:---|
+| 🐍 **Languages** | Python · PHP · JavaScript · SQL · C++ · Java · HTML5 · CSS3 · Markdown |
+| 🟣 **ERP & Backend** | Odoo ERP (v17 · v18 · v19) · Odoo ORM · MVC · REST APIs · Django · Flask · Node.js |
+| 🎨 **Frontend** | React · Tailwind CSS · Semantic UI React · Flutter |
+| 🗄️ **Databases** | PostgreSQL · MySQL · SQLite · Redis |
+| ⚙️ **Automation** | n8n API integrations · Custom workflow automations |
+| ☁️ **DevOps & Cloud** | Linux (Ubuntu) · WSL · Git · GitLab · GitHub · Docker · Kubernetes · CMake · AWS Lightsail/VPS · Google Cloud · Azure |
+| 🧠 **Data & AI** | TensorFlow · Keras · PyTorch · Scikit-Learn · SciPy · Pandas · NumPy · Matplotlib · Power BI · LangChain · ChromaDB · Local RAG |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS%20Lightsail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Projects & Milestones
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟣 Enterprise Odoo Development</h3>
+      <p>Custom modules and migrations across Odoo 17, 18 and 19: <b>sales reporting, loan management, product valuation, CRM technical responsibles, purchase order extensions</b>. Also module deployment, configuration and debugging on local and server environments.</p>
+      <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 Automation & Integration</h3>
+      <p>n8n API workflows connecting third-party apps and streamlining business processes, run from terminal-first Linux setups with <code>git</code>, <code>docker</code>, <code>psql</code> and VPS infrastructure.</p>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ SafeLink-Vision</h3>
+      <p>Phishing URL and <b>deepfake detection</b> using a Hybrid <b>LSTM-CNN</b> and <b>Meso4</b>, deployed via Django and Docker.</p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 ICU Patient Risk Prediction</h3>
+      <p>Clinical vital-risk prediction with <b>LSTM neural networks</b> on the <b>MIMIC-III</b> dataset.</p>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 RAG & Agentic Experiments</h3>
+      <p>Local <b>Retrieval-Augmented Generation</b> pipelines with Python, ChromaDB and LangChain. Exploring LLM agentic loops and <b>Model Context Protocol (MCP)</b> servers.</p>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Web & Landing Pages</h3>
+      <p>Modern company sites and landing pages with HTML, CSS, JavaScript, PHP, WordPress, Elementor, <b>GSAP</b> animations and <b>Lenis</b> smooth scroll.</p>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚗 Beyond Code
+
+- 🎚️ **Car audio & DSP tuning:** 48-band DSP equalizers on Android head units, tuned for Malayalam acoustic instruments, vocals and clean bass.
+- 🔧 **DIY automotive & electronics:** turbocharger assemblies, CHRA cores, EGR systems, and circuit/transistor testing with multimeters (DT830D, Hioki 3015).
+- 🔍 **Emerging interests:** SEO/GEO for AI answer engines, and print-on-demand publishing on Amazon KDP.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/midhunrajm1265/"><img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⚡ "Writing clean code, bridging backend logic with workflow automation, and scaling robust enterprise systems."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2a4d,100:714B67&height=110&section=footer" width="100%" />
