@@ -110,14 +110,6 @@ class Midhunraj:
 
 ---
 
-## 🚗 Beyond Code
-
-- 🎚️ **Car audio & DSP tuning:** 48-band DSP equalizers on Android head units, tuned for Malayalam acoustic instruments, vocals and clean bass.
-- 🔧 **DIY automotive & electronics:** turbocharger assemblies, CHRA cores, EGR systems, and circuit/transistor testing with multimeters (DT830D, Hioki 3015).
-- 🔍 **Emerging interests:** SEO/GEO for AI answer engines, and print-on-demand publishing on Amazon KDP.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -135,10 +127,6 @@ class Midhunraj:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
