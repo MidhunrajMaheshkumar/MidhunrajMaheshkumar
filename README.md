@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/midhunrajm1265/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=714B67&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MidhunrajMaheshkumar&label=Profile%20views&color=714B67&style=for-the-badge" />
 </p>
 
 ---
@@ -32,7 +32,7 @@ class Midhunraj:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,cpp,java,html,css,md,django,flask,nodejs,flutter,react,tailwind,postgres,mysql,sqlite,redis,docker,kubernetes,git,gitlab,github,linux,ubuntu,cmake,aws,gcp,azure,tensorflow,keras,pytorch,sklearn,scipy,pandas,numpy&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,cpp,java,html,css,django,flask,nodejs,flutter,react,tailwind,postgres,mysql,sqlite,redis,docker,kubernetes,git,gitlab,github,linux,ubuntu,cmake,aws,gcp,azure,tensorflow,keras,pytorch,sklearn,pandas,numpy&perline=12" />
 </p>
 
 <div align="center">
@@ -97,7 +97,6 @@ class Midhunraj:
       <h3>🤖 RAG & Agentic Experiments</h3>
       <p>Local <b>Retrieval-Augmented Generation</b> pipelines with Python, ChromaDB and LangChain. Exploring LLM agentic loops and <b>Model Context Protocol (MCP)</b> servers.</p>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Web & Landing Pages</h3>
@@ -113,20 +112,11 @@ class Midhunraj:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="./github-metrics.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://raw.githubusercontent.com/MidhunrajMaheshkumar/MidhunrajMaheshkumar/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
